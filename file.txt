@@ -1,0 +1,5 @@
+Script started on 2026-04-03 11:47:39-04:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="102" LINES="38"]
+]0;~/Unity[?2004h[emma.halsey@ip-10-140-2-9 Unity]$ exit
+[?2004lexit
+
+Script done on 2026-04-03 11:47:46-04:00 [COMMAND_EXIT_CODE="0"]
